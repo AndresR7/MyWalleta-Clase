@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="registerTextView" type="id" />
+    <item name="forgotPasswordTextView" type="id" />
+    <item name="loginButton" type="id" />
+    <item name="passwordEditText" type="id" />
+    <item name="emailEditText" type="id" />
+    <item name="logoImageView" type="id" />
+    <item name="linear_vertical" type="id" />
+</resources>
